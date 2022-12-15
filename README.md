@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello folks 👋
+
+My name is Manikantan Chandran and I'm a software developer/engineer. I'm currently living in Grayslake, IL.
 
 <!--
 **Mani-Chandran/Mani-Chandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
